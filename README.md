@@ -8,6 +8,7 @@ Urban.
 # Summary DataFrame Table
 After merging two data sets and using the groupby() functions, the fare per ride and fare per driver averages were calculated resulting in the summary DataFrame by city 
 type.
+
 ![Summary DataFrame table Module 6 challenge](https://user-images.githubusercontent.com/109875421/187814242-026694be-e13b-4076-8d00-df31f8215660.png)
 1) The Urban city type had more total drivers than total rides, which had a dramatic impact on the average fare that a driver could make per ride. The Urban drivers 
 had the lowest average fare per ride and earned significantly less than the Rural drivers.
