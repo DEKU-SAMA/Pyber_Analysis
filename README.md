@@ -8,12 +8,12 @@ Urban.
 # Summary DataFrame Table
 After merging two data sets and using the groupby() functions, the fare per ride and fare per driver averages were calculated resulting in the summary DataFrame by city 
 type.
-pyber_summary_df(img)
+![Summary DataFrame table Module 6 challenge](https://user-images.githubusercontent.com/109875421/187814242-026694be-e13b-4076-8d00-df31f8215660.png)
 1) The Urban city type had more total drivers than total rides, which had a dramatic impact on the average fare that a driver could make per ride. The Urban drivers 
 had the lowest average fare per ride and earned significantly less than the Rural drivers.
 
 2) The Rural city type had the least number of total drivers giving way to having the highest average fare per driver even though the ratio of total rides to total  
-drivers is equivalent to the Suburban city type.
+drivers is equivalent to the Suburban city type. This makes sense because less drivers means less competition and gives individual drivers the opputunity to earn more wages.
 
 # Total Fare by City Type
 This line graph is from the summary DataFrame, the data was pivoted into a new DataFrame, and then grouped together by weeks to show the total fares by city type.
